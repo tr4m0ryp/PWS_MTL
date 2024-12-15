@@ -1,6 +1,4 @@
-Hier is de tekst in platte tekstvorm die je direct kunt kopiëren en plakken in een bestand genaamd `README.md` voor je GitHub-repository:
 
-```markdown
 # Mann-Whitney U Analysis Tool
 
 ## Overzicht
@@ -34,6 +32,7 @@ Deze tool voert een **Mann-Whitney U-toets** uit om te bepalen of er een statist
 - `seaborn`
 
 Installeer de benodigde bibliotheken met:
+
 ```bash
 pip install pandas scipy matplotlib seaborn
 ```
