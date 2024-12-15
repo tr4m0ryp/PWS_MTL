@@ -1,0 +1,6 @@
+Resultaten Mann-Whitney U-toets
+================================
+U-statistiek: 453.0
+P-waarde: 0.5485380161594705
+
+Conclusie: Er is een statistisch significant verschil tussen de twee groepen.
