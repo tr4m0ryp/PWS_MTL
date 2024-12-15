@@ -50,7 +50,7 @@ pip install pandas scipy matplotlib seaborn
 2. **Script uitvoeren**:
    - Start het script via de terminal:
      ```bash
-     python PWS_MirtheLynn.py
+     python Score_Analyse.py
      ```
 
 3. **Uitvoer bekijken**:
