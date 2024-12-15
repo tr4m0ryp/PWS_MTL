@@ -1,0 +1,5 @@
+Hier zijn de resultaten van de afgenomen tweedimensionale naar driedimensionale test opgeslagen in een `.xlsx`-bestand genaamd **`Resultaten.xlsx`**.
+
+De analyses die door het Python-script zijn uitgevoerd, hebben de volgende bestanden gegenereerd:
+1. **`mann_whitney_u_visualisaties.png`**: Een verzameling visualisaties, waaronder boxplots, histogrammen, gemiddelde scores en cumulatieve distributiefuncties, die de verschillen tussen de groepen weergeven.
+2. **`mann_whitney_u_rapport.txt`**: Een tekstbestand met de resultaten van de statistische analyse, inclusief de U-statistiek, p-waarde en een conclusie over de significantie van de gevonden verschillen.
