@@ -76,7 +76,3 @@ Een tekstbestand met:
 - Zorg ervoor dat het Excel-bestand de kolommen `Geslacht` en `Goed` bevat. Het script zal een foutmelding geven als deze ontbreken.
 - Controleer dat de waarden in `Geslacht` overeenkomen met "man" en "vrouw".
 
-## Bijdragen
-
-Pull requests en suggesties zijn welkom! Neem contact op als je problemen ondervindt of verbeteringen wilt voorstellen.
-```
