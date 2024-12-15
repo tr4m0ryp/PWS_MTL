@@ -1,6 +1,4 @@
-# PWS_MTL
-Analyse; resultaten cognitieve vaardigheden Mann-Whitney U-toets
-Hier is een voorstel voor een README.md bestand dat je kunt toevoegen aan je GitHub-repository:
+Hier is de tekst in platte tekstvorm die je direct kunt kopiëren en plakken in een bestand genaamd `README.md` voor je GitHub-repository:
 
 ```markdown
 # Mann-Whitney U Analysis Tool
@@ -83,5 +81,3 @@ Een tekstbestand met:
 
 Pull requests en suggesties zijn welkom! Neem contact op als je problemen ondervindt of verbeteringen wilt voorstellen.
 ```
-
-Je kunt dit README-bestand uploaden naar je GitHub-repository om toekomstige gebruikers te helpen met het gebruik van de tool. Als je aanpassingen of extra secties wilt toevoegen, laat het weten!
